@@ -84,7 +84,8 @@ The dashboard tracks core business KPIs and breaks down operational performance 
  1. Download and install Power BI Desktop.
  2. Clone this repository to your local machine:
    ```bash
-   <img width="1322" height="743" alt="Super Store Sales Dashboard" src="https://github.com/user-attachments/assets/068ca8c9-a018-46e6-9818-d66ead696abd" />
+   <img width="1322" height="743" alt="Super Store Sales Dashboard"
+https://github.com/dnyanum07-eng/Superstore-Sales-Dashboard/blob/main/Super%20Store%20Sales%20Dashboard.png
    ```
  3. Open the .pbix file located in the Dashboard/ folder.
  4. Use the **Region slicer** at the top left (Central, East, South, West) to dynamically filter the entire report view.
